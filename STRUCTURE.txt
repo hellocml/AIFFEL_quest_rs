@@ -1,3 +1,0 @@
-AIFFEL_quest_rs  [error opening dir]
-
-0 directories, 0 files
