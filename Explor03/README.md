@@ -7,10 +7,10 @@
 - [X]  **1. 주어진 문제를 해결하는 완성된 코드가 제출되었나요?**
     - 문제에서 요구하는 최종 결과물이 첨부되었는지 확인
         - 중요! 해당 조건을 만족하는 부분을 캡쳐해 근거로 첨부
-        ![alt text] (img.png "Go")
-        ![alt text] (img1.png "Go")
-        ![alt text] (img2.png "Go")
-        ![alt text] (img3.png "Go")
+        ![alt text] (./img.png)
+        ![alt text] (./img1.png)
+        ![alt text] (./img2.png)
+        ![alt text] (./img3.png)
 
     
 - [X]  **2. 전체 코드에서 가장 핵심적이거나 가장 복잡하고 이해하기 어려운 부분에 작성된 
